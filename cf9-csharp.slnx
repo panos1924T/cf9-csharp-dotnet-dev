@@ -2,4 +2,6 @@
   <Folder Name="/Solution Items/" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Printing/Printing.csproj" Id="0b7fd887-49a1-41a9-ba77-f6095a28a5a7" />
+  <Project Path="Writing2/Writing2.csproj" Id="03b367f2-69e3-4b46-8040-51180a13146d" />
+  <Project Path="Writing3/Writing3.csproj" Id="b5d57c6e-1d82-434e-bb5b-5c561b04a612" />
 </Solution>
