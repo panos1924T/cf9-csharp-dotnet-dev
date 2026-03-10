@@ -12,3 +12,4 @@ C:\Dev\CF9Coding\C#\cf9-csharp\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dl
 C:\Dev\CF9Coding\C#\cf9-csharp\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
 C:\Dev\CF9Coding\C#\cf9-csharp\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
 C:\Dev\CF9Coding\C#\cf9-csharp\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
+C:\Dev\CF9Coding\C#\cf9-csharp\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
