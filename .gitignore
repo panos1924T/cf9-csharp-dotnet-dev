@@ -1,6 +1,5 @@
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
 .vs/
-   bin/
-   obj/
-   *.user
-   *.suo
-   .DS_Store
