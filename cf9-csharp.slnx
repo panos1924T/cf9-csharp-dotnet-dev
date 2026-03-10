@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/" />
+  <Project Path="CultureInfoDemo/CultureInfoDemo.csproj" Id="a9d8e9e4-da1d-4ef3-b63e-e5dd83dd7124" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Printing/Printing.csproj" Id="0b7fd887-49a1-41a9-ba77-f6095a28a5a7" />
   <Project Path="Writing2/Writing2.csproj" Id="03b367f2-69e3-4b46-8040-51180a13146d" />
